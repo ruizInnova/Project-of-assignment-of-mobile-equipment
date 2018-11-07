@@ -1,0 +1,63 @@
+{
+  "name": "MobilEquipment",
+  "plural": "MobilEquipments",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "Code": {
+      "type": "string",
+      "required": true
+    },
+    "Email": {
+      "type": "string",
+      "required": true
+    },
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "LastName": {
+      "type": "string",
+      "required": true
+    },
+    "Address": {
+      "type": "string",
+      "required": true
+    },
+    "IMEI": {
+      "type": "string",
+      "required": true
+    },
+    "Model": {
+      "type": "string",
+      "required": true
+    },
+    "Brand": {
+      "type": "string",
+      "required": true
+    },
+    "NumberPhone": {
+      "type": "string",
+      "required": true
+    },
+    "Network": {
+      "type": "string",
+      "required": true
+    },
+    "Chip": {
+      "type": "string",
+      "required": true
+    },
+    "Cost": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
