@@ -9,3 +9,8 @@ Pasword: fa54uN96p6jDEvu
 ruizInnova/Project-of-assignment-of-mobile-equipment-web  ->>> ANGULAR
 ruizInnova/Project-of-assignment-of-mobile-equipment-ap   ->>> API
 
+
+
+Ruta Servidor ZEIT
+https://project-of-assignment-of-mobile-equipment-ap-extcadpdnk.now.sh equipment-app
+equipment-app.now.sh 
