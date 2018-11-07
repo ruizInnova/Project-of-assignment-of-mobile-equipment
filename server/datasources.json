@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "ds153593.mlab.com",
+    "port": 53593,
+    "url": "mongodb://dbadmin:fa54uN96p6jDEvu@ds153593.mlab.com:53593/movilequipment",
+    "database": "movilequipment",
+    "password": "fa54uN96p6jDEvu",
+    "name": "mlab",
+    "user": "dbadmin",
+    "connector": "mongodb"
+  }
+}
