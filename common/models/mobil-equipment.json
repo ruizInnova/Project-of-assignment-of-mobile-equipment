@@ -1,17 +1,29 @@
 {
   "name": "MobilEquipment",
+<<<<<<< HEAD
   "plural": "MobilEquipment",
+=======
+  "plural": "MobilEquipments",
+>>>>>>> 8bce72769cf843cfdba3f1ca2346e459a0143d83
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
+<<<<<<< HEAD
     "code": {
       "type": "string",
       "required": true
     },
     "email": {
+=======
+    "Code": {
+      "type": "string",
+      "required": true
+    },
+    "Email": {
+>>>>>>> 8bce72769cf843cfdba3f1ca2346e459a0143d83
       "type": "string",
       "required": true
     },
@@ -36,14 +48,32 @@
       "required": true
     },
     "Brand": {
+<<<<<<< HEAD
       "type": "string"
+=======
+      "type": "string",
+      "required": true
+>>>>>>> 8bce72769cf843cfdba3f1ca2346e459a0143d83
     },
     "NumberPhone": {
       "type": "string",
       "required": true
     },
     "Network": {
+<<<<<<< HEAD
       "type": "string"
+=======
+      "type": "string",
+      "required": true
+    },
+    "Chip": {
+      "type": "string",
+      "required": true
+    },
+    "Cost": {
+      "type": "string",
+      "required": true
+>>>>>>> 8bce72769cf843cfdba3f1ca2346e459a0143d83
     }
   },
   "validations": [],
